@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
+  site_domain: silver-shortbread-9df8fe.netlify.app
   branch: main
-
 media_folder: "public/uploads"
 public_folder: "/uploads"
 
