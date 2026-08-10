@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo: nimbarkvisualshub1-boop/Aviart05
+  name: git-gateway
   branch: main
-  base_url: https://silver-shortbread-9df8fe.netlify.app
 
 media_folder: "uploads"
 public_folder: "/uploads"
